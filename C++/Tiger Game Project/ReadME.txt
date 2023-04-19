@@ -1,4 +1,6 @@
-Simple compile the makefile with every other .cpp and .h file present in the same directory.
+Simply compile the makefile with every other .cpp and .h file present in the same directory.
+
+------------Tiger Card Game-------------
 The aim of the game is to beat the computer!
 
 Both you and the computer picks a hand from a shuffled deck, and draws a card for a specified amount of rounds.
