@@ -1,0 +1,28 @@
+********************************************************************************
+List Statistics:
+----------Oldest Person----------
+Name:	Troy Butler
+Date of Birth:	September 5, 1977
+Major:	CS/BS
+Year:	Junior
+
+----------Youngest Person----------
+Name:	Janki Patel
+Date of Birth:	May 1, 2005
+Major:	CS/BS
+Year:	Senior
+
+----------Birthday Count----------
+January: 22
+February: 10
+March: 12
+April: 9
+May: 12
+June: 6
+July: 9
+August: 20
+September: 22
+October: 13
+November: 9
+December: 12
+********************************************************************************
